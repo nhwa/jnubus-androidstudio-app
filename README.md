@@ -26,12 +26,22 @@ JNU BUS
 
 ### JNU BUS UI/UX
    
-![1](https://user-images.githubusercontent.com/44343908/223730751-d3a5bf94-47b2-4c00-b0a0-2fb2539d53c3.png)   
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44343908/223730751-d3a5bf94-47b2-4c00-b0a0-2fb2539d53c3.png"  width="600" />   
+
 <br />
-![2](https://user-images.githubusercontent.com/44343908/223730763-4e1dcdcf-8746-45fd-847b-66fcead27e33.png)   
+
+<img src="https://user-images.githubusercontent.com/44343908/223730763-4e1dcdcf-8746-45fd-847b-66fcead27e33.png"  width="500" />   
+
 <br />
-![3](https://user-images.githubusercontent.com/44343908/223730768-9191cd0c-9f7d-4a8c-af65-9be82655583f.png)   
+
+<img src="https://user-images.githubusercontent.com/44343908/223730768-9191cd0c-9f7d-4a8c-af65-9be82655583f.png"  width="500" />   
+
 <br />
-![4](https://user-images.githubusercontent.com/44343908/223730773-d8562a87-5296-4950-94ad-b030daa5f082.png)   
+
+<img src="https://user-images.githubusercontent.com/44343908/223730773-d8562a87-5296-4950-94ad-b030daa5f082.png"  width="500" />   
+
 <br />
-![5](https://user-images.githubusercontent.com/44343908/223730780-b7883ed7-5145-4127-8800-754287e93a25.png)   
+
+<img src="https://user-images.githubusercontent.com/44343908/223730780-b7883ed7-5145-4127-8800-754287e93a25.png"  width="500" />   
+</p>
