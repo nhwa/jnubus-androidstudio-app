@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/set_anim">
+    <translate
+        android:duration="6000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="20"
+        android:toYDelta="0" />
+    <translate
+        android:startOffset="6000"
+        android:duration="6000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-30" />
+    <translate
+        android:startOffset="12000"
+        android:duration="12000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-40"
+        android:toYDelta="0" />
+    <translate
+        android:startOffset="24000"
+        android:duration="6000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="30" />
+    <translate
+        android:startOffset="30000"
+        android:duration="6000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="20"
+        android:toYDelta="0" />
+    <translate
+        android:startOffset="36000"
+        android:duration="24000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="80" />
+    <!--제2도서관완-->
+
+    <translate
+        android:startOffset="60000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="100" />
+    <translate
+        android:startOffset="80000"
+        android:duration="30000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="155"
+        android:toYDelta="0" />
+    <translate
+        android:startOffset="110000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="40" />
+    <!--해양대1호관완-->
+
+
+    <translate
+        android:startOffset="120000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="50" />
+
+    <translate
+        android:startOffset="140000"
+        android:duration="40000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-90"
+        android:toYDelta="0" />
+
+    <!--본관완-->
+
+    <translate
+        android:startOffset="180000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-65"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="200000"
+        android:duration="40000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="140" />
+
+    <!--학생회관완-->
+
+    <translate
+        android:startOffset="240000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-140"
+        android:toYDelta="35" />
+
+    <translate
+        android:startOffset="250000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-120"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="270000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="280000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="110" />
+
+    <translate
+        android:startOffset="290000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="0" />
+    <!--인문대서쪽완-->
+
+    <translate
+        android:startOffset="300000"
+        android:duration="50000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="100" />
+
+    <translate
+        android:startOffset="350000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="70"
+        android:toYDelta="0" />
+
+    <!--학생생활관쪽완-->
+
+    <translate
+        android:startOffset="360000"
+        android:duration="30000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="55"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="390000"
+        android:duration="30000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-70" />
+
+    <!--인문대동쪽-->
+
+    <translate
+        android:startOffset="420000"
+        android:duration="10000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-50" />
+
+    <translate
+        android:startOffset="430000"
+        android:duration="50000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="120"
+        android:toYDelta="0" />
+
+    <!--중앙도서관-->
+
+    <translate
+        android:startOffset="480000"
+        android:duration="60000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="180"
+        android:toYDelta="0" />
+
+    <!--의전원-->
+
+    <translate
+        android:startOffset="540000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="60"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="560000"
+        android:duration="40000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-150" />
+
+    <!--공대4호관-->
+
+    <translate
+        android:startOffset="600000"
+        android:duration="60000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-30"
+        android:toYDelta="-40" />
+
+    <!--교양동-->
+
+
+    <translate
+        android:startOffset="660000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-40"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="680000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-120" />
+
+    <translate
+        android:startOffset="700000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-40" />
+
+    <translate
+        android:startOffset="720000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="-155"
+        android:toYDelta="0" />
+
+    <translate
+        android:startOffset="740000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-100" />
+
+    <translate
+        android:startOffset="760000"
+        android:duration="20000"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:toXDelta="0"
+        android:toYDelta="-100" />
+
+    <!--정문-->
+
+</set>

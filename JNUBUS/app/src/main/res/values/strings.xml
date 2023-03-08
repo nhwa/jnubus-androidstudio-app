@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JNUBUS</string>
+    <string name="title_routemap">노선도</string>
+    <string name="title_timetable">시간표</string>
+    <string name="title_nearbusstop">근처 버스정류장</string>
+    <string name="title_setting">설정</string>
+</resources>

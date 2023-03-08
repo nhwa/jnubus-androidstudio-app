@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/app_name"
+            android:translationY="-50dp"
+            app:srcCompat="@drawable/map1" />
+        <ImageView
+            android:id="@+id/bus"
+            android:layout_width="37dp"
+            android:layout_height="40dp"
+            android:translationY="122dp"
+            android:translationX="192dp"
+            app:srcCompat="@drawable/bus" />
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:alpha="0.5"
+            android:background="#fff" />
+        <ImageButton
+            android:id="@+id/aline"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="127.5dp"
+            android:layout_marginTop="10dp"
+            android:alpha="1.0"
+            android:background="@android:color/transparent"
+            android:scaleType="fitStart"
+            android:src="@drawable/aline" />
+        <ImageButton
+            android:id="@+id/bline"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="227.5dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/transparent"
+            android:scaleType="fitStart"
+            android:src="@drawable/bline_not" />
+</RelativeLayout>

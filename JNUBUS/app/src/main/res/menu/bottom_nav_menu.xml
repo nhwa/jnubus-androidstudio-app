@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_routemap"
+        android:icon="@drawable/ic_routemap"
+        android:title="@string/title_routemap" />
+
+    <item
+        android:id="@+id/navigation_timetable"
+        android:icon="@drawable/ic_timetable"
+        android:title="@string/title_timetable" />
+
+    <item
+        android:id="@+id/navigation_nearbusstop"
+        android:icon="@drawable/ic_nearbusstop"
+        android:title="@string/title_nearbusstop" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/title_setting" />
+
+</menu>

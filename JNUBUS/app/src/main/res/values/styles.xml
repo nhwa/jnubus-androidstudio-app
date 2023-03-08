@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--상단 상태바(시간,배터리등등) 색상-->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--타이틀바 색상-->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--컬러지정-->
+        <item name="actionBarStyle">@style/AppThemeActionBarLogo</item>
+    </style>
+
+    <style name="AppThemeActionBarLogo" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="background">@color/colorPrimaryDark</item>
+        <item name="logo">@drawable/ic_actionbar_logo</item>
+        <item name="displayOptions">useLogo|showHome</item>
+    </style>
+
+    <style name="SplashTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/loading</item>
+    </style>
+
+</resources>
+
+    <!-- 상단 상태바 제거
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+        -->
